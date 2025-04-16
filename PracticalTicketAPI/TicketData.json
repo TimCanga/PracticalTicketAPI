@@ -1,0 +1,27 @@
+[
+  {
+    "Title": "Login Issue: Unable to Access Account",
+    "Description": "Several users report that after entering valid credentials, the login page fails to redirect to the dashboard. This issue started after the latest update.",
+    "CreatedAt": "2025-04-16T08:45:00Z"
+  },
+  {
+    "Title": "Feature Request: Dark Mode Interface",
+    "Description": "End users are asking for a dark mode option in the application to reduce eye strain during night-time usage. The request has been highly requested in user feedback.",
+    "CreatedAt": "2025-04-16T09:00:00Z"
+  },
+  {
+    "Title": "Bug: Data Synchronization Error",
+    "Description": "Observed discrepancies between the data shown on the portal and the actual backend records. The error seems to occur after the daily data sync process.",
+    "CreatedAt": "2025-04-16T09:30:00Z"
+  },
+  {
+    "Title": "Performance Issue: Slow Loading Dashboard",
+    "Description": "Users are experiencing delayed loading times on the dashboard during peak hours. An investigation into query optimization is required.",
+    "CreatedAt": "2025-04-16T10:15:00Z"
+  },
+  {
+    "Title": "Security Alert: Password Reset Vulnerability",
+    "Description": "Multiple reports indicate that the password reset function might be vulnerable to unauthorized access, potentially exposing sensitive user data. Urgent review and patching are recommended.",
+    "CreatedAt": "2025-04-16T11:00:00Z"
+  }
+]

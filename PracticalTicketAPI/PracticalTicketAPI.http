@@ -1,0 +1,6 @@
+@PracticalTicketAPI_HostAddress = http://localhost:5186
+
+GET {{PracticalTicketAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
